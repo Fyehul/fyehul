@@ -1,3 +1,7 @@
+ 
+<!-- text gif
+![1](https://github.com/Fyehul/fyehul/blob/main/MyGif%20(1).gif)
+!-->
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> Software engineer passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills.</p>&nbsp;
 
