@@ -1,6 +1,6 @@
  
 
-![1](https://github.com/Fyehul/fyehul/blob/main/MyGi.gif)
+![1](https://github.com/Fyehul/fyehul/blob/main/Profile.png)
 
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> Software engineer passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills.</p>&nbsp;
